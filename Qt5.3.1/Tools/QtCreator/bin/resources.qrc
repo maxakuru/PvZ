@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/misc">
+        <file alias="p3">project/plants/CherryBomb.png</file>
+        <file alias="p7">project/plants/Chomper.png</file>
+        <file alias="p1">project/plants/peashooter.png</file>
+        <file alias="p5">project/plants/PotatoMine.png</file>
+        <file alias="p8">project/plants/Repeater.png</file>
+        <file alias="p6">project/plants/SnowPea.png</file>
+        <file alias="p2">project/plants/Sunflower.png</file>
+        <file alias="p4">project/plants/WallNut.png</file>
+        <file alias="bucketzomb">project/zombies/BucketHead.png</file>
+        <file alias="conezomb">project/zombies/ConeHead.png</file>
+        <file alias="flagzomb">project/zombies/FlagZombie.png</file>
+        <file alias="newspaperzomb">project/zombies/NewspaperZombie.png</file>
+        <file alias="regzomb">project/zombies/RegularZombie.png</file>
+        <file alias="lawnmower">project/misc/lawnmower.png</file>
+        <file>project/misc/level-1.png</file>
+        <file>project/misc/level-2.png</file>
+        <file>project/misc/level-3.png</file>
+        <file>project/misc/level-4.png</file>
+        <file>project/misc/level-5.png</file>
+        <file>project/misc/level-6.png</file>
+        <file>project/misc/level-7.png</file>
+        <file>project/misc/level-8.png</file>
+        <file alias="pvz_levels">project/misc/pvz_levels.csv</file>
+        <file alias="pvz_users">project/misc/pvz_users.csv</file>
+        <file alias="pvz_players">project/misc/pvz_players.csv</file>
+        <file alias="sunpoint">project/misc/sunpoint.png</file>
+        <file alias="bucketzombfight">project/zombies/BucketHeadFight.png</file>
+        <file alias="conezombfight">project/zombies/ConeHeadFight.png</file>
+        <file alias="flagzombfight">project/zombies/FlagZombieFight.png</file>
+        <file alias="newspaperzombfight">project/zombies/NewspaperZombieFight.png</file>
+        <file alias="regzombfight">project/zombies/RegularZombieFight.png</file>
+    </qresource>
+</RCC>
